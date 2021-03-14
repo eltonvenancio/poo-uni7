@@ -1,31 +1,4 @@
 Passos-a-passo;
 
-1 - Instalar o Git
-2 - Escolher umas pasta que será o repositório (dir, mkdir e cd)
-  - C:\Users\Elton Venancio\Google Drive\== UNI 7 ==\3º Semestre\03 - PROGRAMAÇÃO COM ORIENTAÇÃO A OBJETOS\Repositorio>_
-3 - 'git init' - inicia um novo repositório do Git
-4 - 'git status' - para verificar o estados dos arquivos no repositório
-5 - 'git add' - para incluir arquivos no tracking do Git
-  - git add Passo-a-passo.txt
-6 - 'git config --global user.name "Elton Venancio"'
-7 - 'git config --global user.email "eltonvenancio@gmail.com"'
-8 - 'git commit -m "Incluíndo primeiro arquivo no repositório"'- para confirmar as mudanças do stage para o repositório
-
-Para Confirmar alterações
-
-5 - 'git add' ou 'git add .'(adiona todos os arquivos da pasta)
-4 - 'git status'
-8 - 'git commit -m "Adcionado novos passos no arquivos do repositório"'- para confirmar as mudanças do stage para o repositório
-
-Para verificar as alterações
-
-9 - 'git log'
-10 - 'git clone URL' para baixar um repositorio remoto
-11 - 'git push'
-
-Comandos para enviar para GitHub
-
-git remote add origin https://github.com/eltonvenancio/poo_uni7.git
-git branch -M main
-git push -u origin main
+Alterando arquivos
 
